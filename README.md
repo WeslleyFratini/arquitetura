@@ -1,6 +1,15 @@
-# arch
+# Arquitetura Flutter
 
-A new Flutter project.
+- Views e Controllers
+- Models
+- Service
+- ViewModel
+- Repository
+- Testes de Unidade
+- Injeção de Dependências
+- Rotas nomeadas
+- Modularização
+- Orientado a packages
 
 ## Getting Started
 
